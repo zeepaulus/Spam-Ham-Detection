@@ -17,7 +17,7 @@ The Jupyter Notebook is structured to guide the user from initial data explorati
 -   **From-Scratch Naive Bayes Classifier**: A custom-built `NaiveBayesClassifier` class that handles model fitting, prediction, and evaluation without relying on external ML libraries like Scikit-learn for the core algorithm.
 -   **Interactive Functions**:
     1.  **Predict New Email**: A function that prompts the user for a new email subject and message and provides a real-time spam/ham prediction with confidence scores.
-    2.  **Evaluate on CSV**: A function that evaluates the trained model on an external CSV file (e.g., `val.csv`), providing a full performance report, including a confusion matrix.
+    2.  **Evaluate on CSV**: A function that evaluates the trained model on an external CSV file (e.g., `val.csv`), providing the result in a new file if user want to.
 
 ## Usage
 
